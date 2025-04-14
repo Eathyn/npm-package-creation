@@ -20,6 +20,6 @@
     /* doesn't require access to DOM API's */
     "lib": ["es2022"],
 
-    "noEmit": true,
+    "noEmit": true
   }
 }
