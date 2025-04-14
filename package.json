@@ -5,6 +5,14 @@
   "files": [
     "dist"
   ],
+  "homepage": "https://github.com/Eathyn/npm-package-creation",
+  "bugs": {
+    "url": "https://github.com/Eathyn/npm-package-creation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eathyn/npm-package-creation.git",
+  },
   "type": "module",
   "main": "dist/index.js",
   "license": "MIT",
