@@ -1,2 +1,5 @@
-export { add } from './utils.js'
-//# sourceMappingURL=index.js.map
+// src/utils.ts
+var add = (a, b) => a + b;
+export {
+  add
+};
